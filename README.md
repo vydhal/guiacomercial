@@ -31,6 +31,7 @@ to manage all the jobs, companies and categories.
 - Run __composer install__
 - Run __php artisan key:generate__
 - Run __php artisan migrate --seed__ (it has some seeded data for your testing)
+- Run __php artisan serve__
 - That's it: launch the main URL. 
 - You can login to adminpanel by going go `/login` URL and login with credentials __admin@admin.com__ - __password__
 
